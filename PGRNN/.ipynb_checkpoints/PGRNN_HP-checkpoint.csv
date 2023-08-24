@@ -1,0 +1,7 @@
+,fold,batch_size,epochs,learning_rate,activation,dropout_rate,optimizer,num_units,num_layers,lambda1,lambda2
+0,0,60,30,0.0002,selu,0.3,Adam,30,1,0.21429,0.62071
+1,1,60,30,0.0002,selu,0.3,Adam,30,1,0.21429,0.62071
+2,2,60,30,0.0002,selu,0.3,Adam,30,1,0.21429,0.62071
+3,3,60,30,0.0002,selu,0.3,Adam,30,1,0.21429,0.62071
+4,4,60,30,0.0002,selu,0.3,Adam,30,1,0.21429,0.62071
+5,5,60,30,0.0002,selu,0.3,Adam,30,1,0.21429,0.62071
